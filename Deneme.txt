@@ -1,0 +1,5 @@
+print("Merhaba, bu benim ilk scriptim!")
+
+local player = game.Players.LocalPlayer
+
+player.Character.Humanoid.WalkSpeed = 100 -- Yürüyüş hızını artırırlocal
